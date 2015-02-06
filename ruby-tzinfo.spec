@@ -2,7 +2,7 @@
 
 Name:       ruby-%{oname}
 Version:    1.1.0
-Release:    3
+Release:    4
 Summary:    Daylight-savings aware timezone library
 
 Group:      Development/Ruby
