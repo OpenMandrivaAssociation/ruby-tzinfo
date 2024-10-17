@@ -7,7 +7,7 @@ Summary:    Daylight-savings aware timezone library
 
 Group:      Development/Ruby
 License:    MIT
-URL:        http://tzinfo.rubyforge.org/
+URL:        https://tzinfo.rubyforge.org/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 Requires:   rubygems
 BuildRequires: rubygems
